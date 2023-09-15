@@ -1,0 +1,10 @@
+{
+    "descriptionString": "<string to search for to identify your entries, e.g. [AutoUpdate: YourName]>",
+    "accouns": {
+        "name": "<account_name>",
+        "accessKeyId": "<aws_access_key>",
+        "secretAccessKey": "<aws_secret_key>",
+        "region": "<aws_region>",
+        "mfaSerial": "value of 'Assigned MFA device' in IAM Security Credentials tab"
+    }
+}
